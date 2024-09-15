@@ -1,0 +1,9 @@
+name: Auth
+version: 1.0
+main: com.example.auth.Auth
+api-version: 1.19
+commands:
+  login:
+    description: "Залогиньтесь"
+  register:
+    description: "Зарегестрируйтесь"
