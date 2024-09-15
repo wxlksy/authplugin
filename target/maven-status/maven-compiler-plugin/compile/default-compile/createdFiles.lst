@@ -1,0 +1,3 @@
+com\example\auth\Listener.class
+com\example\auth\Auth.class
+com\example\auth\database\Auth.class
